@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.shamir-secret-sharing',
-    version='0.1.0',
+    version='0.1.1',
     packages=['wolfsoftware.shamir_secret_sharing'],
     entry_points={
         'console_scripts': [
@@ -21,7 +21,7 @@ setup(
     },
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
-    description='A nice description will go here',
+    description="A CLI implementation of Shamir's secret sharing",
     long_description=long_description,
     long_description_content_type='text/markdown',
     url='https://github.com/GreyTeamToolbox/shamir-secret-sharing-package',
