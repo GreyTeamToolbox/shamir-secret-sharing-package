@@ -3,7 +3,7 @@ message: If you use this software, please cite it using these metadata.
 title: Shamir's secret sharing
 abstract: A CLI implementation of Shamir's secret sharing.
 type: software
-version: 0.1.1
+version: 0.1.2
 date-released: 2024-06-26
 repository-code: https://github.com/GreyTeamToolbox/shamir-secret-sharing-package
 keywords:
