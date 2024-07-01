@@ -12,7 +12,7 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.shamir-secret-sharing',
-    version='0.1.2',
+    version='0.1.3',
     packages=['wolfsoftware.shamir_secret_sharing'],
     entry_points={
         'console_scripts': [
