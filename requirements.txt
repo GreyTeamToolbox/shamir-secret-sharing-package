@@ -1,2 +1,2 @@
 colorama==0.4.6
-wolfsoftware.notify==0.1.0
+wolfsoftware.notify==0.1.2
